@@ -31,3 +31,7 @@ mother=Mother("Salma", "Female", "Cooking, Baking", "Adeeb")
 
 mat_grand_parent1=Mat_Grand_Parent("Ayesha", "Female", "Reading", "Salma")
 mat_grand_parent2=Mat_Grand_Parent("Abdullah", "Male", "Reading", "Salma")
+
+pat_grand_parent1=Pat_Grand_Parent("Tahura", "Female", "Gardening, Reading", "Rubayet")
+pat_grand_parent2=Pat_Grand_Parent("Muhammad", "Male", "Reading", "Rubayet")
+
