@@ -28,3 +28,6 @@ class Child(Father,Mother):
 child1=Child("Adeeb", "Male", "Football, Cricket")
 father=Father("Rubayet", "Male", "Fishing, Reading", "Adeeb")
 mother=Mother("Salma", "Female", "Cooking, Baking", "Adeeb")
+
+mat_grand_parent1=Mat_Grand_Parent("Ayesha", "Female", "Reading", "Salma")
+mat_grand_parent2=Mat_Grand_Parent("Abdullah", "Male", "Reading", "Salma")
