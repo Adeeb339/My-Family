@@ -22,3 +22,9 @@ class Mother(Mat_Grand_Parent):
 
 class Child(Father,Mother):
    pass
+
+# Objects
+
+child1=Child("Adeeb", "Male", "Football, Cricket")
+father=Father("Rubayet", "Male", "Fishing, Reading", "Adeeb")
+mother=Mother("Salma", "Female", "Cooking, Baking", "Adeeb")
