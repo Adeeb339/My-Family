@@ -35,3 +35,5 @@ mat_grand_parent2=Mat_Grand_Parent("Abdullah", "Male", "Reading", "Salma")
 pat_grand_parent1=Pat_Grand_Parent("Tahura", "Female", "Gardening, Reading", "Rubayet")
 pat_grand_parent2=Pat_Grand_Parent("Muhammad", "Male", "Reading", "Rubayet")
 
+person_selector= int(input("Please enter any number between: 1, 2, 3, 4, 5, 6, 7 or 8  to see the information of any family member: "))
+
