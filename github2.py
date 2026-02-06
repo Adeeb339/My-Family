@@ -37,3 +37,23 @@ pat_grand_parent2=Pat_Grand_Parent("Muhammad", "Male", "Reading", "Rubayet")
 
 person_selector= int(input("Please enter any number between: 1, 2, 3, 4, 5, 6, 7 or 8  to see the information of any family member: "))
 
+if person_selector == 1:
+    child1.show_info()
+
+elif person_selector == 2:
+    father.show_info()
+
+elif person_selector == 3:
+    mother.show_info()
+
+elif person_selector == 4:
+    mat_grand_parent1.show_info()
+
+elif person_selector == 5:
+    mat_grand_parent2.show_info()
+
+elif person_selector == 6:
+    pat_grand_parent1.show_info()
+
+elif person_selector == 7:
+    pat_grand_parent2.show_info()
